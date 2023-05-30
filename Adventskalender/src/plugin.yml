@@ -1,0 +1,9 @@
+name: Adventskalender
+author: xLucaN
+version: 1.0
+main: de.xlucan.main.Main
+
+commands:
+  adventskalender:
+    aliases:
+      - advent
